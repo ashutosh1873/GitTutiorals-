@@ -1,0 +1,4 @@
+*.log
+/dir/
+Static/dir/here is something.txt
+
